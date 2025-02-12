@@ -2,7 +2,7 @@
 
 module.exports = {
   TOKEN: "",
-  language: "vi",
+  language: "en",
   ownerID: ["840770359115907112", ""], 
   mongodbUri : "",
   setupFilePath: './commands/setup.json',
